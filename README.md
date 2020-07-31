@@ -1,6 +1,6 @@
 # Line-Follower-OpenCV
 
-### The project is based in python3 with raspberry pi 3 B+. <br />
+ The project is based in python3 with raspberry pi 3 B+. <br />
  The developers are brazilian students from ES-LINHARES. <br />
  2018/2019 <br />
 
